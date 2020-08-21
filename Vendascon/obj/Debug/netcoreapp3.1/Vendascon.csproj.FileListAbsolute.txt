@@ -1,0 +1,13 @@
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.exe
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.deps.json
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.runtimeconfig.json
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.runtimeconfig.dev.json
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.dll
+D:\f\c#\Projeto\Vendas\Vendascon\bin\Debug\netcoreapp3.1\Vendascon.pdb
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.csprojAssemblyReference.cache
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.AssemblyInfoInputs.cache
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.AssemblyInfo.cs
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.csproj.CoreCompileInputs.cache
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.dll
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.pdb
+D:\f\c#\Projeto\Vendas\Vendascon\obj\Debug\netcoreapp3.1\Vendascon.genruntimeconfig.cache
